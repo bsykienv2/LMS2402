@@ -34,8 +34,8 @@ const firebaseConfig = {
   projectId: "lms2402-8a095",
   storageBucket: "lms2402-8a095.firebasestorage.app",
   messagingSenderId: "998072839091",
-  appId: "1:998072839091:web:a5f67cbc1f90b72c33f9c6",
-  measurementId: "G-MR80F0W876"
+  appId: "1:998072839091:web:d72250c1cd5df44133f9c6",
+  measurementId: "G-C31GJ2HKYN"
 };
 
 // Initialize Firebase
